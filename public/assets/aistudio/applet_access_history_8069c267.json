@@ -1,0 +1,14 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-11-19T03:59:50.258366Z",
+    "firstAccessTime": "2026-11-19T03:59:50.258366Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "57889c85-74eb-47b4-aa6c-a37b38d4cab0"
+      }
+    },
+    "name": "Arcanum Forge — Alchemist\u0027s Character Generator",
+    "description": "An ancient alchemist\u0027s workbench for crafting fantasy RPG characters, rolling ability scores, and conjuring stylized character portraits."
+  }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Arcanum Forge — Alchemist's Character Generator",
+  "description": "An ancient alchemist's workbench for crafting fantasy RPG characters, rolling ability scores, and conjuring stylized character portraits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
